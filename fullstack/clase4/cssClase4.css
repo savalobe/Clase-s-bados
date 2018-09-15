@@ -1,0 +1,61 @@
+body{
+	background-color: rgb(242,242,242);
+}
+#cabecera{
+	background: rgb(242,242,242);
+	color: black;
+	height: 80px;
+	font-size: small;
+	padding: 4px 4px;
+
+}
+h3{
+	color: grey;
+	font-size: 16px;
+	font-style: arial;
+	font-weight: 200;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+#titulos{
+	width: 300px;
+	margin-top:  4em;
+	margin-left: 1em;
+	font-size: 45px;
+	font-style: arial;
+	font-weight: 1200;
+	color: grey;
+}
+#texto{
+	color: grey;
+	width: 300px;
+	margin-top: 10px;
+	margin-left: 1em;
+	font-size: 20px;
+	font-style: arial;
+	font-weight: 1200;
+	padding: 20px;
+}
+.boton{
+	margin-left: 2em;
+	border: 5px solid DARKTURQUOISE; /*anchura, estilo y color borde*/
+	padding: 18px; /*espacio alrededor texto*/
+	background-color:DARKTURQUOISE; /*color botón*/
+	color: #ffffff; /*color texto*/
+	text-decoration: none; /*decoración texto*/
+	text-transform: uppercase; /*capitalización texto*/
+	font-size: 15px;
+	font-family: 'Helvetica', arial; /*tipografía texto*/
+}
+.boton2{
+	border: 5px solid DARKTURQUOISE; /*anchura, estilo y color borde*/
+	padding: 0px; /*espacio alrededor texto*/
+	background-color:DARKTURQUOISE; /*color botón*/
+	color: #ffffff; /*color texto*/
+	text-decoration: none; /*decoración texto*/
+	text-transform: uppercase; /*capitalización texto*/
+	font-size: 15px;
+	font-family: 'Helvetica', arial; /*tipografía texto*/
+}
+
+
